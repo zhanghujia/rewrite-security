@@ -1,0 +1,5 @@
+#one:
+#  security:
+#    browser:
+#      loginPage: /signIn.html
+#      loginType: REDIRECT

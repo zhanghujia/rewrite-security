@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: two-security
+  resources:
+    static-locations: classpath:/static/,classpath:/resources/
+two:
+  security:
